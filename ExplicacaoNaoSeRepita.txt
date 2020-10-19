@@ -1,0 +1,2 @@
+A duplicação, tanto de código quanto em documentação, requisitos e arquitetura é extremamente prejudicial pois gera uma ambiguidade no sistema,
+ o que pode acabar gerando confusão aos desenvolvedores como também diversos tipos de falhas.

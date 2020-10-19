@@ -1,0 +1,6 @@
+br\reusoporcomposicao\correta\DescontoPorTipo.class
+br\reusoporcomposicao\correta\DescontoPorTipoAlimento.class
+br\reusoporcomposicao\incorreta\DescontoPorTipo.class
+br\reusoporcomposicao\incorreta\Desconto.class
+br\reusoporcomposicao\correta\Desconto.class
+br\reusoporcomposicao\incorreta\DescontoPorTipoAlimento.class

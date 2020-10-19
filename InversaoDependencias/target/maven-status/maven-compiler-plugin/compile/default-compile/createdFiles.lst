@@ -1,0 +1,5 @@
+br\inversaodependencias\correta\Cliente.class
+br\inversaodependencias\incorreta\Cliente.class
+br\inversaodependencias\correta\IPagamento.class
+br\inversaodependencias\incorreta\Pedido.class
+br\inversaodependencias\correta\Pedido.class

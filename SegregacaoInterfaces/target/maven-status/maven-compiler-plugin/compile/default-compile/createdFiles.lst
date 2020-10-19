@@ -1,0 +1,6 @@
+br\segregacaointerfaces\correto\ILampadaColorida.class
+br\segregacaointerfaces\correto\LampadaInteligente.class
+br\segregacaointerfaces\correto\ILampada.class
+br\segregacaointerfaces\incorreto\LampadaIncandescente.class
+br\segregacaointerfaces\incorreto\ILampada.class
+br\segregacaointerfaces\correto\LampadaIncandescente.class

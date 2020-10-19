@@ -1,0 +1,6 @@
+br\demeter\incorreta\Endereco.class
+br\demeter\correta\Cliente.class
+br\demeter\incorreta\Cliente.class
+br\demeter\incorreta\Pedido.class
+br\demeter\correta\Endereco.class
+br\demeter\correta\Pedido.class

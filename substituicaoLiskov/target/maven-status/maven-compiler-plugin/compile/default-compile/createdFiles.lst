@@ -1,0 +1,6 @@
+br\substituicaoliskov\correto\Casa.class
+br\substituicaoliskov\correto\Imovel.class
+br\substituicaoliskov\incorreto\Casa.class
+br\substituicaoliskov\incorreto\Imovel.class
+br\substituicaoliskov\correto\Apartamento.class
+br\substituicaoliskov\incorreto\Apartamento.class
